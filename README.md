@@ -4,8 +4,7 @@
 # Building a Multi-Container Application
 Inside the flask-redis-app directory:
 
-Objective
-Create a multi-container application that consists of a simple Python Flask web application and a Redis database. The Flask application should use Redis to store and retrieve data.
+My objective was to create a multi-container application that consists of a simple Python Flask web application and a Redis database. The Flask application should use Redis to store and retrieve data.
 
 Requirements
 Flask Web Application:
