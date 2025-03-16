@@ -1,4 +1,4 @@
-# Docker Learning
+## Docker Learning
 
 
 # Building a Multi-Container Application
@@ -6,7 +6,7 @@ Inside the flask-redis-app directory:
 
 My objective was to create a multi-container application that consists of a simple Python Flask web application and a Redis database. The Flask application should use Redis to store and retrieve data.
 
-## Requirements
+#Requirements
 
 1. **Flask Web Application**:
    - A Flask app that has two routes:
