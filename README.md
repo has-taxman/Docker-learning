@@ -58,7 +58,7 @@
     # this is your base image
     FROM python:3.9
 
-    # we set the working dir in yourr container
+    # we set the working dir in your container
     WORKDIR /usr/src/app
 
     # copying reqs file to your container so you can install the app reqs ygm
