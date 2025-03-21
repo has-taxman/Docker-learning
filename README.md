@@ -1,4 +1,3 @@
-# Docker Learning
 # Intro to Containers
 
 - [Reading material](intro.md)
